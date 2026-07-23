@@ -1,0 +1,29 @@
+Media Server License
+
+Copyright (c) 2026 Klaus
+
+Permission is granted to use, study, and modify this software for personal and educational purposes.
+
+You are allowed to:
+
+* Use the software for personal purposes.
+* Study the source code for learning and educational purposes.
+* Modify the software for your own personal use.
+
+You are NOT allowed to:
+
+* Sell this software or any modified version of it.
+* Use this software for commercial purposes.
+* Redistribute, re-upload, or republish this software without clearly crediting the original author.
+* Remove or alter the copyright notice and author attribution.
+* Claim this software or any part of it as your own work.
+
+If you redistribute this software or share modified versions, you must:
+
+* Clearly credit the original author (KlausOriginal).
+* Include a link to the original repository.
+* Include this license file unchanged.
+
+This software is provided "as is", without warranty of any kind.
+
+All rights reserved.
